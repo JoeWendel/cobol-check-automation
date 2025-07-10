@@ -18,4 +18,4 @@ jobs:
       run: 
         # Here we'll add our commands to run cobolcheck
         echo "Running COBOL Check"
-        # Add actual cobolcheck commands her
+        # Add actual cobolcheck commands here
